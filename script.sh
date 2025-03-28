@@ -23,7 +23,10 @@ echo "Current logged-in user: $USER"
 echo "Home directory: $HOME"
 echo "Current working directory: $PWD"
 
-# Task 6: Wildcards
-echo "Listing all text files in the directory:"
-ls *.txt
-
+# Task 6: Wildcards Define the directory
+DIR="test_directory"
+# Create the directory if it does not exist
+if [ ! -d "$DIR" ]; then mkdir "$DIR" echo "Created directory: $DIR" fi
+# List all '.sh' files in the directory
+echo "Listing all Bash scripts in $DIR:"
+ls "$DIR"/*.sh 2>/dev/null || echo "No .sh files found in $DIR"
