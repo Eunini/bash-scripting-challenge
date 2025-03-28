@@ -1,7 +1,9 @@
-# Bash Scripting Challenge - Day 1
+# Bash Scripting Task - Day 1
+![bash-2](https://github.com/user-attachments/assets/0bc06ab4-28a5-4f48-b0d6-facb055c365f)
 
 ## Overview
-I took on **Day 1** of the **Bash Scripting Challenge**, where I explored fundamental Bash scripting concepts. This challenge helped me reinforce my understanding of:
+I took on **Day 1** of the **Bash Scripting Task**, where I explored fundamental Bash scripting concepts. This task helped me reinforce my understanding of:
+
 
 - Adding comments to scripts
 - Using the `echo` command
@@ -135,7 +137,7 @@ After making changes, I pushed them to GitHub:
 ---
 
 ## Conclusion
-Completing **Day 1** of this challenge gave me hands-on experience with Bash scripting fundamentals. This repository documents my solutions, and I look forward to tackling more advanced scripting tasks!
+Completing **Day 1** of this task gave me hands-on experience with Bash scripting fundamentals. This repository documents my solutions, and I look forward to tackling more advanced scripting tasks!
 
 ---
 
